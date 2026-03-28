@@ -1,0 +1,14 @@
+# Visual Studio 缓存与编译输出
+.vs/
+x64/
+Debug/
+Release/
+
+# VS 项目用户配置
+*.vcxproj.user
+*.sln.ide
+
+# 可执行文件与调试文件
+*.exe
+*.pdb
+*.ilk
